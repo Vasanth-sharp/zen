@@ -1,6 +1,6 @@
 Steps to start project
 
-1. pen a new terminal window.
+1. open a new terminal window.
 2. Navigate to the project directory: Execute cd contactBack in your terminal.
 3. Install project dependencies: Run npm install to install the dependencies listed in your package.json file.
 4. Start the server: Execute node index.js to start a new server that handle the incoming request and response
